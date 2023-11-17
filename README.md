@@ -1,6 +1,6 @@
-[MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/10-coding-projects-for-beginners-1-1536x714.png)
+[![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/10-coding-projects-for-beginners-1-1536x714.png)]
 <h1 align="center">Hi 👋, I'm Sabrine Gharbi</h1>
-<h3 align="center">A passionate software engineering student from Tunisia</h3>
+<h3 align="center">A passionate software engineering student ! </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrinegharbii&label=Profile%20views&color=0e75b6&style=flat" alt="sabrinegharbii" /> </p>
